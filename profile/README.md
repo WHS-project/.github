@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WHS PROJECT&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WHS-PROJECT%20render&fontSize=90)
 
 ## 화이트햇 스쿨 1기 프로젝트 
 
